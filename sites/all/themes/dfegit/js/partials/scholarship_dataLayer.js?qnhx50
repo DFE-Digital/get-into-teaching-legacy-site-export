@@ -1,0 +1,65 @@
+$("a[data-title='computing']").click( function() {
+	dataLayer.push({
+		'event': 'eventGA',
+		'eventCategory': 'Scholarship Pages', 
+		'eventAction': 'Internal Link Clicked', 
+		'eventLabel': 'Computing',
+		'eventValue': '0', 
+		'eventNonInteraction': 'false'
+	});
+});
+
+$("a[data-title='chemistry']").click( function() {
+	dataLayer.push({
+		'event': 'eventGA',
+		'eventCategory': 'Scholarship Pages', 
+		'eventAction': 'Internal Link Clicked', 
+		'eventLabel': 'Chemistry',
+		'eventValue': '0', 
+		'eventNonInteraction': 'false'
+	});
+});
+
+$("a[data-title='geography']").click( function() {
+	dataLayer.push({
+		'event': 'eventGA',
+		'eventCategory': 'Scholarship Pages', 
+		'eventAction': 'Internal Link Clicked', 
+		'eventLabel': 'Geography',
+		'eventValue': '0', 
+		'eventNonInteraction': 'false'
+	});
+});
+
+$("a[data-title='languages']").click( function() {
+	dataLayer.push({
+		'event': 'eventGA',
+		'eventCategory': 'Scholarship Pages', 
+		'eventAction': 'Internal Link Clicked', 
+		'eventLabel': 'Languages',
+		'eventValue': '0', 
+		'eventNonInteraction': 'false'
+	});
+});
+
+$("a[data-title='maths']").click( function() {
+	dataLayer.push({
+		'event': 'eventGA',
+		'eventCategory': 'Scholarship Pages', 
+		'eventAction': 'Internal Link Clicked', 
+		'eventLabel': 'Maths',
+		'eventValue': '0', 
+		'eventNonInteraction': 'false'
+	});
+});
+
+$("a[data-title='physics']").click( function() {
+	dataLayer.push({
+		'event': 'eventGA',
+		'eventCategory': 'Scholarship Pages', 
+		'eventAction': 'Internal Link Clicked', 
+		'eventLabel': 'Physics',
+		'eventValue': '0', 
+		'eventNonInteraction': 'false'
+	});
+});
