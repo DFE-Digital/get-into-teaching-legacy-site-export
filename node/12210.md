@@ -1,0 +1,66 @@
+Online
+
+*   [Home](/)
+*   [Teaching events](/teaching-events)
+*   [Online events](/teaching-events/online-events)
+*   Return to teach in England: information for UK teachers working overseas
+
+Return to teach in England: information for UK teachers working overseas
+========================================================================
+
+24 November 2020 at 10:00 - 11:00
+
+This event is to support UK teachers currently teaching overseas in their return to teach in England. Our panel of experts will cover topics such as finding vacancies, real life examples from returners, guidance and practical support available to you. You’ll also get a chance to ask questions and network with colleagues in a similar position.
+
+Our children and young people need your international skills, experience and perspective.
+
+If you’re thinking about coming home to teach, the Department for Education want to help.
+
+This hour-long, online event will cover:
+
+*   the Teaching Vacancies service
+*   practical tips from teachers who’ve made the move back home
+*   extra support for priority subjects (maths, physics and modern languages)
+*   general information and guidance
+
+You’ll also be able to network, ask questions and shape future online sessions run by DfE.
+
+To attend, please complete the [registration here.](https://www.eventbrite.co.uk/e/return-to-teach-in-england-information-for-uk-teachers-working-overseas-tickets-124241330163) Details of how to join the webinar will be emailed to you a few days before the event.
+
+When you register, you'll have the opportunity to raise issues and concerns you'd like us to cover. You can also add your name to our mailing list, to be notified of future events. 
+
+### Upcoming events
+
+[View all online events](/teaching-events/online-events)
+
+[](/teaching-events/online-events/change-career-to-teaching-17)
+
+#### Change career to teaching
+
+22 March 2021 - 18:00
+
+Considering changing career to teaching? Not sure about the next step? Join this online Q&A event where our panel of experts will discuss the different options available to help you retrain and experiences of the obstacles faced when changing career.
+
+[](/teaching-events/online-events/return-to-teach-in-england-information-for-uk-teachers-working-overseas2)
+
+#### Return to teach in England: information for UK teachers working overseas
+
+23 March 2021 - 10:00
+
+This event is to support UK teachers currently teaching overseas in their return to teach in England. Our panel of experts will cover topics such as finding vacancies, real life examples from returners, guidance and practical support available to you. You’ll also get a chance to ask questions and network with colleagues in a similar position.
+
+[](/teaching-events/online-events/advice-for-university-students-5)
+
+#### Advice for University students
+
+31 March 2021 - 12:00
+
+Join our online Q&A event specifically tailored for university students and find out why teaching is a great career choice. Our panel of experts will provide helpful information on the different training options available, tax-free bursaries and the application process.
+
+[](/teaching-events/online-events/primary-school-teaching-13)
+
+#### Primary school teaching
+
+07 April 2021 - 12:30
+
+Join this online Q&A event for advice on all things primary school teaching. Our panel of experts will help you decide which option is best for you and provide lots of advice to kickstart your new career.

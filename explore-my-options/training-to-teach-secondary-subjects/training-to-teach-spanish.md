@@ -1,0 +1,61 @@
+*   [Home](/)
+*   [Explore my options](/explore-my-options)
+*   [Training to teach secondary subjects](/explore-my-options/training-to-teach-secondary-subjects)
+*   Training to teach Spanish
+
+Training to teach Spanish
+=========================
+
+Spanish is second only to Mandarin as the most commonly spoken native language in the world. It’s also become increasingly popular as a GCSE subject. As a Spanish trainee teacher, you could benefit from a tax-free £10,000 bursary to support your training year. There’s even support in place before you apply - when you [register with us](/node/2278), you could receive free tailored advice from a teaching professional throughout the application process. If you’re [non-UK EU national](/node/3893), read our helpful summary on preparing for teaching - you could also receive a tax-free bursary or scholarship. 
+
+With its worldwide prevalence, it’s important for all students to have the same opportunities to be taught Spanish brilliantly. Your teacher training will help you develop the skills to take on that task and deliver engaging lessons that make learning Spanish enjoyable and rewarding for both you and your pupils.
+
+A career as a Spanish teacher gives you the chance to relate the cultures of Spanish-speaking nations across the world to your language teaching. This could be through classroom environments and lesson content, or on school trips and student exchanges.
+
+The benefits of teaching don’t end with the job security and satisfaction, you’ll be helping young people learn an important language for work and travel.
+
+As a qualified teacher, you’ll also earn a competitive starting salary of at least £23,720, or £29,664 in inner London, with lots of opportunities for rapid career progression.
+
+### Upcoming events
+
+[View all events](/teaching-events)
+
+[](/teaching-events/train-to-teach-events/train-to-teach-newcastle-virtual-event-230321)
+
+#### Train to Teach Newcastle virtual event
+
+23 March 2021 - 17:00
+
+**Newcastle**
+
+This event, for anyone interested in training to teach in Newcastle, will give you the chance to ask experts about your teacher training options and what it’s like to teach.
+
+[](/teaching-events/train-to-teach-events/train-to-teach-southampton-virtual-event-240321)
+
+#### Train to Teach Southampton virtual event
+
+24 March 2021 - 17:00
+
+**Southampton**
+
+This event, for anyone interested in training to teach in Southampton, will give you the chance to ask experts about your teacher training options and what it’s like to teach.
+
+[](/teaching-events/train-to-teach-events/train-to-teach-london-virtual-event-270321)
+
+#### Train to Teach London virtual event
+
+27 March 2021 - 10:00
+
+**London**
+
+This event, for anyone interested in training to teach in London, will give you the chance to ask experts about your teacher training options and what it’s like to teach.
+
+[](/teaching-events/train-to-teach-events/train-to-teach-york-virtual-event-300321)
+
+#### Train to Teach York virtual event
+
+30 March 2021 - 18:00
+
+**York**
+
+This event, for anyone interested in training to teach in York, will give you the chance to ask experts about your teacher training options and what it’s like to teach.
